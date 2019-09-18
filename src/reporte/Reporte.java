@@ -14,7 +14,7 @@ public class Reporte {
        System.out.println("Anita pasa" + " " +Lenguaje.pasa_materia());
        
         System.out.println("brazo");
-        System.out.println("reporte.Reporte.main()");
+        System.out.println("brazo3");
         System.out.println("reporte.Reporte.main()");
         
         
