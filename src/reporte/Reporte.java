@@ -12,6 +12,8 @@ public class Reporte {
         Lenguaje.setExamen_1(8);
         Lenguaje.setExamen_2(5);
        System.out.println("Anita pasa" + " " +Lenguaje.pasa_materia());
+       
+        System.out.println("reporte.Reporte.main()");
     }
     
     }
