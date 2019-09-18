@@ -1,0 +1,10 @@
+||:reporte.Reporte
+java.lang.Object
+reporte.Reporte
+java.lang.StringBuilder
+java.lang.System
+java.io.PrintStream
+reporte.Materia
+||:reporte.Materia
+java.lang.Object
+reporte.Materia
